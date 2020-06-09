@@ -1,0 +1,17 @@
+#contatti-faq {
+  h1 {
+    padding-bottom: 25px;
+  }
+  .domande {
+    padding-top: 50px;
+    .domande-risposte {
+      padding-bottom: 20px;
+      h3 {
+        padding-bottom: 20px;
+      }
+      p {
+        line-height: 1.5;
+      }
+    }
+  }
+}

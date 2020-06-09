@@ -78,6 +78,7 @@ header nav .search a {
 
 main {
   padding: 80px;
+  background-color: #f4f4f4;
 }
 
 main .first-section-home {
@@ -114,8 +115,47 @@ main .first-section-home .piu-venduti ul li span {
   display: block;
 }
 
+main #contatti-faq h1 {
+  padding-bottom: 25px;
+}
+
+main #contatti-faq .domande {
+  padding-top: 50px;
+}
+
+main #contatti-faq .domande .domande-risposte {
+  padding-bottom: 20px;
+}
+
+main #contatti-faq .domande .domande-risposte h3 {
+  padding-bottom: 20px;
+}
+
+main #contatti-faq .domande .domande-risposte p {
+  line-height: 1.5;
+}
+
+main .casa-editrice {
+  padding-bottom: 30px;
+}
+
+main .casa-editrice h2 {
+  color: red;
+}
+
+main .casa-editrice h1,
+main .casa-editrice h2,
+main .casa-editrice h3 {
+  padding-bottom: 15px;
+}
+
+main .casa-editrice .box-casa-ed {
+  padding-bottom: 20px;
+  line-height: 1.5;
+}
+
 footer {
-  padding: 70px;
+  padding: 50px 70px 0;
   border-top: solid 1px lightgrey;
 }
 

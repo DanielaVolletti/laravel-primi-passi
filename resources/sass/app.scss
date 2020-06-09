@@ -16,11 +16,14 @@ header {
 
 main {
   padding: 80px;
+  background-color: #f4f4f4;
   @import 'home';
+  @import 'contact';
+  @import 'about';
 }
 
 footer {
-  padding: 70px;
+  padding: 50px 70px 0;
   border-top: solid 1px lightgrey;
   @import 'footer';
 }
