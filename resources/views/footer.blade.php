@@ -52,3 +52,23 @@
     </li>
   </div>
 </div>
+<div class="footer-basso">
+  <img src="https://www.einaudi.it/content/themes/einaudi/images/logo.svg" alt="">
+  <div class="">
+    <ul>
+      <li>
+        <a href="#">Dati societari</a>
+      </li>
+      <li>
+        <a href="#">Governance</a>
+      </li>
+      <li>
+        <a href="#">Privacy</a>
+      </li>
+      <li>
+        <a href="#">Contatti</a>
+      </li>
+    </ul>
+    <h5>© Giulio Einaudi editore 2020 P.I. 07022140011</h5>
+  </div>
+</div>

@@ -10,20 +10,17 @@ li {
 
 header {
   padding: 30px 70px 30px;
-  height: 250px;
   border-bottom: solid 1px lightgrey;
   @import 'header';
 }
 
 main {
   padding: 80px;
-  height: calc(100% - 250px);
   @import 'home';
 }
 
 footer {
   padding: 70px;
-  height: 250px;
   border-top: solid 1px lightgrey;
   @import 'footer';
 }
