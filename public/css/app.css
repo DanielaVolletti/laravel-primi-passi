@@ -78,7 +78,7 @@ header nav .search a {
 }
 
 main {
-  padding: 70px;
+  padding: 80px;
   height: calc(100% - 250px);
 }
 
@@ -86,6 +86,34 @@ main .first-section-home {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+main .first-section-home h2 {
+  padding-bottom: 15px;
+  font-weight: lighter;
+  border-bottom: solid 1px lightgrey;
+}
+
+main .first-section-home .novita .new-libreria {
+  padding-top: 15px;
+}
+
+main .first-section-home .novita .new-libreria img {
+  padding-right: 20px;
+}
+
+main .first-section-home .piu-venduti ul {
+  padding-top: 15px;
+}
+
+main .first-section-home .piu-venduti ul li {
+  padding-bottom: 25px;
+  list-style-type: decimal;
+}
+
+main .first-section-home .piu-venduti ul li span {
+  font-weight: bold;
+  display: block;
 }
 
 footer {

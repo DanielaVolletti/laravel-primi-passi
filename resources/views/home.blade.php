@@ -11,12 +11,13 @@
       </div>
     </div>
     <div class="piu-venduti">
+      <h2>I più venduti</h2>
       <ul>
-        <li>Francesco Piccolo - Momenti Trascurabili Vol 3</li>
-        <li>Matteo Bussola - L'invenzione di noi 2</li>
-        <li>Federico Rampini - Oriente e Occidente</li>
-        <li>Giancarlo De Cataldo - Io sono il castigo</li>
-        <li>Gianrico Carofiglio - La misura del tempo</li>
+        <li>Francesco Piccolo <span>Momenti Trascurabili Vol 3</span></li>
+        <li>Matteo Bussola <span>L'invenzione di noi 2</span></li>
+        <li>Federico Rampini <span>Oriente e Occidente</span></li>
+        <li>Giancarlo De Cataldo <span>Io sono il castigo</span></li>
+        <li>Gianrico Carofiglio <span>La misura del tempo</span></li>
       </ul>
     </div>
   </div>
