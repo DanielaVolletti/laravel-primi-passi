@@ -18,10 +18,10 @@
           @include('navbar')
         </header>
         <main>
-
+          @yield('content')
         </main>
         <footer>
-
+          @include('footer')
         </footer>
     </body>
 </html>
